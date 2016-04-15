@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.logo {margin:1em 0 0 0;}
+.time_bg {background: #000 none repeat scroll 0 0; height: 429px;  margin: 0 auto;  padding: 0 0 52px; width: 794px;}
+.sub { margin:-0.5em 2em -1em 0 }
+.odometer {margin:4em 2em 2em 0;}
+.live_img {margin: 2em auto; padding:7em 0 2em 0;}
+.countdownHolder {margin:0em auto; } 
+{background: #ffffff none repeat scroll 0 0; font-size: 19px;  height: 52px;  letter-spacing: -3px;  line-height: 30px;  margin: 0;  padding-left: 1px;  padding-top: 1px;  text-align: center;  width: 331px;}
+#countdown_label {margin:0px auto; width:400px; margin:0 auto; }
+#countdown_label > span {color: #fff; font-size: 21px; padding: 0 34px 0 22px; text-align:left;}
+.form_box {width:794px; margin:1em auto; height:20px;}
+.red { background:#c31a14; width:56.7em; margin: 0 0 1em 1em}
+.form_mar {margin:0.1em 0 0.6em 0}
+.form-control {background:#D5D5D5; border:0px;} 
+.head {max-width:769px; margin:15px auto; font-size:17px;} 
+#given_date { color: #fff;  font-size: 30px;  letter-spacing: 19px;  margin: 0 auto;  padding: 0 0 0 11px;    width: 372px; background:url(../images/bg_timer.png) repeat-x;}
